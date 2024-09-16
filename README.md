@@ -2,4 +2,4 @@
 
 meu nome é bastião da silva
 
-- estou visitando na Alura
+- Estou estudando na Alura
